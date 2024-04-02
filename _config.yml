@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 2214f224801d7a3ee930                            #生成的clientID
-  clientSecret: 94849ae4c5c40d88fa89f2feafb6fc2a7630ac28    #生成的clientSecret
+  clientID: 02eaae2c1355b4ef473d                            #生成的clientID
+  clientSecret: 194001f4edcd5ba6f91810011354fc107305ea91    #生成的clientSecret
   repo: dittoq.github.io    #仓库名称
   owner: dittoq    #github用户名
   admin: dittoq
