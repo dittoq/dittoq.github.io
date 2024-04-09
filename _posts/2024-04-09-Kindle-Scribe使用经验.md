@@ -8,6 +8,7 @@ header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: false 						# 是否归档
 tags:								#标签
     - 设备
+    - 设备/阅读器
 ---
 
 ##  墨水屏阅读器的需求
